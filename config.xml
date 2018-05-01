@@ -5,10 +5,10 @@ xmlns:gap= "http://phonegap.com/ns/1.0"
 id = "com.phonegap.app4"
 version = "1.0.0">
 
-<name> APP4 contaminacion </name>
+<name> APP4contaminacion </name>
 
 <description>
-Aplicacion que muestra contaminacion ambienta
+Aplicacion que muestra contaminacion ambiental
 </description>
 
 <author href="https://build.phonegap.com" email="adolfandrade1@gmail.com">
